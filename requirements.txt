@@ -1,0 +1,4 @@
+pillow
+pytube
+moviepy
+requests
